@@ -1,2 +1,2 @@
 # Peppy.Analysis-
-Conducted SQL based business analysis on Peppy’s wellness data to uncover insights on customer loyalty, sales trends, and category performance. Demonstrates analytical thinking, business acumen, and query optimization skills.
+Performed data analysis on user onboarding and engagement patterns based on real internship experience at Peppy, a wellness platform. Focused on identifying drop off points in the user journey and understanding factors influencing user engagement and platform adoption. Leveraged SQL to query and analyze structured data, enabling efficient extraction of insights. The findings support improvements in onboarding processes, user experience, and data driven decision making.
